@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "202365400625",
+    "firebase_url": "https://democustomlistview-db7f1.firebaseio.com",
+    "project_id": "democustomlistview-db7f1",
+    "storage_bucket": "democustomlistview-db7f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202365400625:android:0e7b3a43826b0863",
+        "android_client_info": {
+          "package_name": "d14cqcp01.group5.democustomlistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202365400625-g17khkq98r9vf27k5r9ec65ucd2lvna9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbzMAeTAMsdm8qkiu0Vo4U9F58Yvy99OE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
